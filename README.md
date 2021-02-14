@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gitprincesskerry
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning SQL and Python
